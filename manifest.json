@@ -1,0 +1,12 @@
+{
+    "id":           "paysafecard",
+	"type":         "mod",
+    "name":         "Paysafecard module",
+    "description":  "Paysafecard module",
+    "homepage_url": "http://localhost/boxbilling/",
+    "author":       "byeqima",
+    "author_url":   "byeqima.com",
+    "license":      "GPL version 2 or later - http://www.gnu.org/licenses/old-licenses/gpl-2.0.html",
+    "version":      "1.0",
+    "minimum_boxbilling_version": "2.3"
+}
